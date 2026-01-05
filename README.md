@@ -1,4 +1,4 @@
-# Group Signature Scheme Repository
+# LMGS
 
 This repository implements a group signature scheme using Python and C scripts. The system is composed of multiple scripts that work together for parameter generation, signature creation, and verification.
 
