@@ -17,7 +17,7 @@ This repository implements a group signature scheme using Python and C scripts. 
 **3. `Group_sig_unified1000.py`**
 - Performs 1,000 iterations of signature generation to measure average execution time and signature size.
 
-### **System Architecture and Communication Flows**
+## System Architecture
 
 ![Architecture](scheme.jpg)
 
