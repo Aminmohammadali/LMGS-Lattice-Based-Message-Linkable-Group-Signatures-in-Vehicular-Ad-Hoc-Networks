@@ -49,3 +49,7 @@ $$
 - Signature generation and verification are handled by `Group_sig_unified.py`.
 - The RSU or any other entity can verify signatures using the public parameters.
 - Signing and verification processes can be executed independently.
+
+## Setup Library
+
+First, you need to set up the **LaZer library**. For installation and instructions, please refer to the official repository: [LaZer on GitHub](https://github.com/lazer-crypto/lazer)
