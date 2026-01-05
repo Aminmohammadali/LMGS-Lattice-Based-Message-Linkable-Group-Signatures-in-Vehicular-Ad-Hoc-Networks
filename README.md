@@ -19,7 +19,7 @@ This repository implements a group signature scheme using Python and C scripts. 
 
 ### **System Architecture and Communication Flows**
 
-![Architecture](./images/scheme.jpg)
+![Architecture](scheme.jpg)
 
 
 ## Description of the Scheme
