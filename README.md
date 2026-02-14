@@ -364,9 +364,6 @@ Please ensure:
 - Documentation is updated
 - Commit messages are descriptive
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
@@ -374,8 +371,8 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{lmgs2026,
-  title = {LMGS: Lattice-based Multi-signature Group Scheme for Vehicular Networks},
-  author = {Your Name},
+  title = {LMGS: A Lattice-Based Message-Linkable Group Signature Scheme for Cooperative Intelligent Transportation Systems},
+  author = {Amin Mohammadali, Riham AlTawy},
   year = {2026},
   url = {https://github.com/yourusername/LMGS}
 }
@@ -389,9 +386,9 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **Project Link**: [https://github.com/yourusername/LMGS](https://github.com/yourusername/LMGS)
+- **Author**: Amin Mohammadali
+- **Email**: aminmohammadali@gmail.com
+
 
 ---
 
