@@ -42,7 +42,8 @@ The system consists of three main entities:
 1. **Vehicles**: Generate anonymous signatures using private group signature keys
 2. **Central System (CS)**: 
    - Trusted Authority (TA): Generates and distributes cryptographic keys
-   - Application Servers (AS): Manage vehicle authentication
+   - Application Servers (AS): Receive and analysis announcments and disseminate them. 
+   - Tracing Entity (TE): Manage tracing of malicious vehicle
 3. **Roadside Units (RSU)**: Verify signatures and enforce threshold requirements
 
 ### Operational Modes
