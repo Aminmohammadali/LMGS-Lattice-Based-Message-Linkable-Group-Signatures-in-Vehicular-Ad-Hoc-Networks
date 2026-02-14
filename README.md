@@ -101,18 +101,11 @@ Vehicle 20 → generates 1 signature → sends to RSU
 Total: 20 vehicles × 1 signature each = 20 signatures
 ```
 
-**Critical constraints:**
-- ✓ **Each vehicle generates exactly ONE signature per event**
-- ✓ **Multiple different vehicles** (20+ vehicles) participate
-- ✓ Each vehicle has its own unique identity (id_i)
-- ✓ Vehicles generate signatures independently
-- ✓ **Cryptographic enforcement prevents multiple signatures per vehicle**
-
 ## Installation
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10 or higher
 - GCC compiler (for LaZer library)
 - Git
 
